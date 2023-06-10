@@ -1,0 +1,18 @@
+label {
+    border: 1px solid pink;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    cursor:pointer;
+    display: block;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid green;
+    padding: 10px;
+}
+li {
+    text-align: start;
+}
